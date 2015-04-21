@@ -1,0 +1,136 @@
+body {
+    background: #000000 url("pics/bg.png") no-repeat fixed;
+    opacity: 1;
+    background-size:cover;
+    font-family:"Palatino Linotype", Palatino, serif;
+    padding-top:10rem;
+ }
+
+.navbar-default {
+    background: #101900;
+    border-color:#003600;
+    font-size:1.7rem;
+
+}
+
+.navbar-default .navbar-brand,
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:visited,
+.navbar-default .navbar-brand:focus {
+    color:#FFFFFF;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color:#94B162;
+}
+
+.navbar-default .navbar-nav>li>a:focus,
+.navbar-default .navbar-nav>li>a:hover {
+    color:#FFFFFF;
+}
+
+
+.navbar-default .navbar-nav>.active>a,
+.navbar-default .navbar-nav>.active>a:focus,
+.navbar-default .navbar-nav>.active>a:hover {
+    background:#5E110C;
+    border: 1px solid #852A25;
+
+    color:#ffffff;
+}
+
+a {
+    color:#5E110C;
+    font-size:1.6rem;
+    font-weight: bold;
+}
+
+#core > div, #elective>div, #languages>div, #professional>div {
+    padding:1rem;
+}
+#librivermis>p>a,
+#projrbd>p>a,
+#projrhino>p>a {
+    color:#5E100C;
+    text-decoration:none;
+}
+
+#social, #mail {
+    padding-top:1rem;
+    padding-left:1rem;
+}
+#librivermis>p>a:hover,
+#projrbd>p>a:hover, #projrhino>p>a:hover {
+    color:#5E100C;
+    font-weight: bold;
+}
+
+
+p {
+    font-size:1.7rem;
+    color:#212121;
+    padding:1rem;
+}
+
+li {
+    list-style-type:none;
+    text-align:left;
+}
+
+#elective, #professional, #languages, #core {
+    text-align: center;
+    font-size:1.5rem;
+}
+.state, .section {
+    padding-left:1rem;
+    color:#000000;
+    text-align:center;
+    padding-top: 1rem;
+    padding-bottom:1rem;
+}
+
+
+.proj-name,.contacts {
+    background:#39520E;
+    color:#ffffff;
+    margin:0;
+    padding:1rem;
+}
+
+.contacts {
+    margin-top:1rem;
+    margin-bottom:2rem;
+}
+h1 small {
+    color:#94B162;
+    margin-left:1rem;
+}
+
+.col-md-4 {
+    padding-top:1rem;
+}
+
+
+.col-md-8 {
+    background-color:rgba(255, 255, 255, 1);
+    padding:0 2rem 2rem 2rem;
+    border-color:#39520E;
+
+}
+
+.page-header {
+    background:#101900;
+    color:#ffffff;
+    padding-top:3rem;
+    padding-bottom:3rem;
+    text-align:center;
+    margin-top:2rem;
+}
+
+#projlv, #projrbd, #projrhino {
+    padding: 2rem 0 2rem 0;
+}
+
+.carousel {
+    margin-top:4rem;
+}
