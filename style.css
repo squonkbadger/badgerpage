@@ -139,3 +139,12 @@ h1 small {
     color:#ffffff;
     font-size:1.5rem;
 }
+
+.artwork img{
+    max-height: 65rem;
+    margin:auto;
+}
+
+.artwork {
+    text-align:center;
+}
