@@ -21,8 +21,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="contactEN.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="contactEN.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/EN/contactEN.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-11.115385">
+              <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.28529122">
               <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
@@ -54,7 +64,6 @@
         <option value="$PROJECT_DIR$/FIN/indexfi.html" />
         <option value="$PROJECT_DIR$/FIN/contactFI.html" />
         <option value="$PROJECT_DIR$/FIN/metropoliaFI.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/ITA/indexita.html" />
         <option value="$PROJECT_DIR$/ITA/MetropoliaITA.html" />
         <option value="$PROJECT_DIR$/ITA/personalITA.html" />
@@ -67,6 +76,7 @@
         <option value="$PROJECT_DIR$/EN/artEN.html" />
         <option value="$PROJECT_DIR$/EN/metropoliaEN.html" />
         <option value="$PROJECT_DIR$/EN/contactEN.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -483,13 +493,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8153998">
-          <caret line="85" column="8" selection-start-line="85" selection-start-column="8" selection-end-line="85" selection-end-column="98" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ITA/progressITA.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-31.76923">
@@ -580,6 +583,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/EN/contactEN.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.115385">
+          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.28529122">
           <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
